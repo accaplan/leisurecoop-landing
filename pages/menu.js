@@ -223,10 +223,10 @@ export default function Menu(initialData) {
                         </li>
 
                         <li>
-                          <a href="https://digitalshowroom.l52.world/" rel="noopener noreferrer" target="_blank" aria-label="Go to digital showroom" className="inline-block py-2 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('digital-showroom')} onMouseLeave={() => setCurrentImage(null)}>
+                          <a href="https://beta.leisure.coop/" rel="noopener noreferrer" target="_blank" aria-label="Go to digital showroom" className="inline-block py-2 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('digital-showroom')} onMouseLeave={() => setCurrentImage(null)}>
                             <div className="relative overflow-hidden leading-tight">
                               <m.div variants={reveal}>
-                                Digital Showroom
+                                Sharing Platform
                               </m.div>
                             </div>
 

@@ -67,19 +67,19 @@ export default function Home(initialData) {
               <div className="relative overflow-hidden">
                 <h1 className="w-full text-center mb-0 pb-0 font-display text-[10vw] lg:text-[4.5vw] 3xl:text-[4vw] italic text-white mix-blend-difference">
                   <m.span variants={reveal} className="inline-block">
-                    Experts&nbsp;
+                    Taking&nbsp;
                   </m.span>
 
                   <m.span variants={revealDelay1} className="inline-block">
-                    in&nbsp;
+                    time&nbsp;
                   </m.span>
 
                   <m.span variants={revealDelay2} className="inline-block">
-                    creative&nbsp;
+                    to&nbsp;
                   </m.span>
 
                   <m.span variants={revealDelay3} className="inline-block">
-                    communication.
+                    build utopia.
                   </m.span>
                 </h1>
               </div>
@@ -128,10 +128,10 @@ export default function Home(initialData) {
 
                     <div className="relative overflow-hidden">
                       <m.div variants={reveal}>
-                        <a href="https://digitalshowroom.l52.world/" target="_blank" rel="noopener noreferrer" className="w-1/2 md:w-auto text-white text-center mix-blend-difference cursor-pointer 2xl:text-[1.1rem] group">
+                        <a href="https://beta.leisure.coop/" target="_blank" rel="noopener noreferrer" className="w-1/2 md:w-auto text-white text-center mix-blend-difference cursor-pointer 2xl:text-[1.1rem] group">
                         <span className="block overflow-hidden relative">
-                              <span className="block relative z-10 transition-transform ease-in-out duration-[450ms] group-hover:-translate-y-full">Digital Showroom</span>
-                              <span className="absolute inset-0 block z-10 transition-transform ease-in-out duration-[450ms] group-hover:translate-y-0 translate-y-full ">Digital Showroom</span>
+                              <span className="block relative z-10 transition-transform ease-in-out duration-[450ms] group-hover:-translate-y-full">Sharing Platform</span>
+                              <span className="absolute inset-0 block z-10 transition-transform ease-in-out duration-[450ms] group-hover:translate-y-0 translate-y-full ">Sharing Platform</span>
                           </span>
                         </a>
                       </m.div>
