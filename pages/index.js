@@ -118,8 +118,8 @@ export default function Home(initialData) {
                         <m.div variants={reveal}>
                           <a className="w-1/2 md:w-auto text-white text-center mix-blend-difference cursor-pointer 2xl:text-[1.1rem] group">
                           <span className="block overflow-hidden relative">
-                              <span className="block relative z-10 transition-transform ease-in-out duration-[450ms] group-hover:-translate-y-full">Clients</span>
-                              <span className="absolute inset-0 block z-10 transition-transform ease-in-out duration-[450ms] group-hover:translate-y-0 translate-y-full ">Clients</span>
+                              <span className="block relative z-10 transition-transform ease-in-out duration-[450ms] group-hover:-translate-y-full">Partners</span>
+                              <span className="absolute inset-0 block z-10 transition-transform ease-in-out duration-[450ms] group-hover:translate-y-0 translate-y-full ">Partners</span>
                           </span>
                           </a>
                         </m.div>

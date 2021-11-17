@@ -211,7 +211,7 @@ export default function Menu(initialData) {
                           <a aria-label="Go to clients" className="inline-block py-2 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('clients')} onMouseLeave={() => setCurrentImage(null)}>
                             <div className="relative overflow-hidden leading-tight">
                               <m.div variants={reveal}>
-                                Clients
+                                Partners
                               </m.div>
                             </div>
 

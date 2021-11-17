@@ -13,8 +13,8 @@ module.exports = {
   darkMode: false,
   theme: {
     fontFamily: {
-      'sans': ['Circular', 'Arial', 'sans-serif'],
-      'display': ['SangBleu', 'Arial', 'sans-serif'],
+      'sans': ['Helvetica', 'sans-serif'],
+      'display': ['Courier New', 'sans-serif'],
     },
     fontSize: {
       'xs': '.75rem',

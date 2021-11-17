@@ -1,7 +1,7 @@
 export default {
   defaultTitle: 'Leisure Cooperative | Sharing Platform',
   description: 'A sharing platform for leisure time recreation and resources',
-  titleTemplate: '%s | Leisure Coomerative',
+  titleTemplate: '%s | Sharing Time Together',
   openGraph: {
     type: 'website',
     locale: 'en_CH',
