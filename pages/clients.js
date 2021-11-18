@@ -25,7 +25,7 @@ export default function Clients(initialData) {
 
   return (
     <Layout>
-      <NextSeo title="Clients" />
+      <NextSeo title="Partners" />
 
       <Header alwaysBlack />
 
@@ -46,8 +46,8 @@ export default function Clients(initialData) {
                           <div className="overflow-hidden">
                             <m.div variants={reveal}>
                             <span className="block overflow-hidden relative">
-                                <span className="block relative z-10 transition-transform ease-in-out duration-[450ms] group-hover:-translate-y-full">Clients</span>
-                                <span className="absolute inset-0 block z-10 transition-transform ease-in-out duration-[450ms] group-hover:translate-y-0 translate-y-full ">Clients</span>
+                                <span className="block relative z-10 transition-transform ease-in-out duration-[450ms] group-hover:-translate-y-full">Partners</span>
+                                <span className="absolute inset-0 block z-10 transition-transform ease-in-out duration-[450ms] group-hover:translate-y-0 translate-y-full ">Partners</span>
                             </span>
                             </m.div>
                           </div>
