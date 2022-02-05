@@ -160,7 +160,7 @@ export default function Menu(initialData) {
                       <ul>
                         <li>
                           <Link href="/">
-                          <a aria-label="Go to Home" className="inline-block py-2 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('home')} onMouseLeave={() => setCurrentImage(null)}>
+                          <a aria-label="Go to Home" className="inline-block py-2 text-[28px] lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('home')} onMouseLeave={() => setCurrentImage(null)}>
                             <div className="relative overflow-hidden leading-tight">
                               <m.div variants={reveal}>
                                 Home
@@ -176,7 +176,7 @@ export default function Menu(initialData) {
 
                         <li>
                           <Link href="/about">
-                          <a aria-label="Go to about" className="inline-block py-2 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group relative group" onMouseOver={() => setCurrentImage('about')} onMouseLeave={() => setCurrentImage(null)}>
+                          <a aria-label="Go to about" className="inline-block py-2 text-[28px] lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group relative group" onMouseOver={() => setCurrentImage('about')} onMouseLeave={() => setCurrentImage(null)}>
                             <div className="relative overflow-hidden leading-tight">
                               <m.div variants={reveal}>
                                 About Us
@@ -192,7 +192,7 @@ export default function Menu(initialData) {
 
                         <li>
                           <Link href="/work">
-                          <a aria-label="Go to about" className="inline-block py-2 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('work')} onMouseLeave={() => setCurrentImage(null)}>
+                          <a aria-label="Go to about" className="inline-block py-2 text-[28px] lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('work')} onMouseLeave={() => setCurrentImage(null)}>
                             <div className="relative overflow-hidden leading-tight">
                               <m.div variants={reveal}>
                                 Work
@@ -208,7 +208,7 @@ export default function Menu(initialData) {
 
                         <li>
                           <Link href="/clients">
-                          <a aria-label="Go to clients" className="inline-block py-2 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('clients')} onMouseLeave={() => setCurrentImage(null)}>
+                          <a aria-label="Go to clients" className="inline-block py-2 text-[28px] lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('clients')} onMouseLeave={() => setCurrentImage(null)}>
                             <div className="relative overflow-hidden leading-tight">
                               <m.div variants={reveal}>
                                 Partners
@@ -223,7 +223,7 @@ export default function Menu(initialData) {
                         </li>
 
                         <li>
-                          <a href="https://beta.leisure.coop/" rel="noopener noreferrer" target="_blank" aria-label="Go to digital showroom" className="inline-block py-2 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('digital-showroom')} onMouseLeave={() => setCurrentImage(null)}>
+                          <a href="https://beta.leisure.coop/" rel="noopener noreferrer" target="_blank" aria-label="Go to digital showroom" className="inline-block py-2 text-[28px] lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('digital-showroom')} onMouseLeave={() => setCurrentImage(null)}>
                             <div className="relative overflow-hidden leading-tight">
                               <m.div variants={reveal}>
                                 Sharing Platform
@@ -238,7 +238,7 @@ export default function Menu(initialData) {
 
                         <li>
                           <Link href="/contact">
-                          <a aria-label="Go to contact us" className="inline-block py-2 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('contact')} onMouseLeave={() => setCurrentImage(null)}>
+                          <a aria-label="Go to contact us" className="inline-block py-2 text-[28px] lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue relative group" onMouseOver={() => setCurrentImage('contact')} onMouseLeave={() => setCurrentImage(null)}>
                             <div className="relative overflow-hidden leading-tight">
                               <m.div variants={reveal}>
                                 Contact Us

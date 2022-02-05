@@ -13,8 +13,8 @@ module.exports = {
   darkMode: false,
   theme: {
     fontFamily: {
-      'sans': ['Helvetica', 'sans-serif'],
-      'display': ['Courier New', 'sans-serif'],
+      'sans': ['SelectricMono', 'sans-serif'],
+      'display': ['SelectricRoman', 'sans-serif'],
     },
     fontSize: {
       'xs': '.75rem',

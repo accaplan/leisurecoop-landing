@@ -65,7 +65,7 @@ export default function Home(initialData) {
               )}
 
               <div className="relative overflow-hidden">
-                <h1 className="w-full text-center mb-0 pb-0 font-display text-[10vw] lg:text-[4.5vw] 3xl:text-[4vw] italic text-white mix-blend-difference">
+                <h1 className="w-full text-center mb-0 pb-0 font-display text-[10vw] lg:text-[4.5vw] 3xl:text-[4vw] text-white mix-blend-difference">
                   <m.span variants={reveal} className="inline-block">
                     Taking&nbsp;
                   </m.span>

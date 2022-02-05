@@ -79,7 +79,7 @@ export default function Contact(initialData) {
                     </div>
                     
                     {contact.emailGeneralEnquiries && (
-                      <p><a aria-label="Email link for general enquiries" className="inline-block my-3 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue leading-tight group relative" href={`mailto:${contact.emailGeneralEnquiries}?subject=General Enquiry`}>
+                      <p><a aria-label="Email link for general enquiries" className="inline-block my-3 text-[28px] lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue leading-tight group relative" href={`mailto:${contact.emailGeneralEnquiries}?subject=General Enquiry`}>
                         <div className="overflow-hidden relative">
                           <m.div variants={reveal}>
                             General Enquiries
@@ -94,7 +94,7 @@ export default function Contact(initialData) {
                     )}
 
                     {contact.emailPressEnquiries && (
-                      <p><a aria-label="Email link for press enquiries" className="inline-block my-3 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue leading-tight group relative" href={`mailto:${contact.emailPressEnquiries}?subject=Press Enquiry`}>
+                      <p><a aria-label="Email link for press enquiries" className="inline-block my-3 text-[28px] lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue leading-tight group relative" href={`mailto:${contact.emailPressEnquiries}?subject=Press Enquiry`}>
                         <div className="overflow-hidden relative">
                           <m.div variants={reveal}>
                             Press Enquiries
@@ -108,7 +108,7 @@ export default function Contact(initialData) {
                     )}
 
                     {contact.instagram && (
-                      <p><a aria-label="Go to our Instagram page" className="inline-block my-3 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue leading-tight group relative" href={contact.instagram} target="_blank" rel="noreferrer">
+                      <p><a aria-label="Go to our Instagram page" className="inline-block my-3 text-[28px] lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue leading-tight group relative" href={contact.instagram} target="_blank" rel="noreferrer">
                         <div className="overflow-hidden relative">
                           <m.div variants={reveal}>
                             Instagram
@@ -122,7 +122,7 @@ export default function Contact(initialData) {
                     )}
 
                     {contact.linkedin && (
-                      <p><a aria-label="Go to our Linkedin page" className="inline-block my-3 text-[28px] italic lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue leading-tight group relative" href={contact.linkedin} target="_blank" rel="noreferrer">
+                      <p><a aria-label="Go to our Linkedin page" className="inline-block my-3 text-[28px] lg:text-[2.6vw] 2xl:text-[3vw] font-display text-blue leading-tight group relative" href={contact.linkedin} target="_blank" rel="noreferrer">
                         <div className="overflow-hidden relative">
                           <m.div variants={reveal}>
                             Linkedin

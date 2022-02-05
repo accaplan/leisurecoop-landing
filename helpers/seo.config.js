@@ -15,9 +15,4 @@ export default {
       },
     ]
   },
-  twitter: {
-    handle: '@samuelgoddard',
-    site: '@site',
-    cardType: 'summary_large_image',
-  },
 };

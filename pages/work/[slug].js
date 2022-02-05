@@ -147,7 +147,7 @@ export default function WorkSlug(initialData) {
 
                         <div className="w-full-4 text-center sm:my-0 sm:text-right sm:w-1/3 mt-2 sm:mt-0">
                           <div className="relative overflow-hidden">
-                            <m.p variants={reveal} className="italic font-display text-off-black mb-0 pb-0">{category.title}</m.p>
+                            <m.p variants={reveal} className="font-display text-off-black mb-0 pb-0">{category.title}</m.p>
                           </div>
                         </div>
                       </div>
